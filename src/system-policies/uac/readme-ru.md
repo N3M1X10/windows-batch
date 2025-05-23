@@ -1,4 +1,4 @@
-# 📕readme-ru.md [`eng`](https://github.com/N3M1X10/windows-batch/blob/master/src/system-policies/uac/readme.md) | `rus`
+# 📕readme-ru.md [`eng`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/readme.md) | `rus`
 
 Данный раздел включает в себя пакеты отключения/восстановления системной функции Windows: **User Account Control**
 
@@ -10,8 +10,8 @@
 - Это может увеличить риски безопасности, если вы неосторожны в сети, и качаете файлы из недостоверных источников
 
 ## Файлы
-- [`src/net/uac/disable-UAC.bat`](https://github.com/N3M1X10/windows-batch/blob/master/src/net/uac/disable-UAC.bat) - Запустите чтобы отключить UAC
-- [`src/net/uac/restore-UAC.bat`](https://github.com/N3M1X10/windows-batch/blob/master/src/net/uac/restore-UAC.bat) - Запустите чтобы восстановить UAC
+- [`src/net/uac/disable-UAC.bat`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/disable-UAC.bat) - Запустите чтобы отключить UAC
+- [`src/net/uac/restore-UAC.bat`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/restore-UAC.bat) - Запустите чтобы восстановить UAC
 
 >[!important]
 >После данных операций, для вступления изменений в силу - требуется перезапустить систему!

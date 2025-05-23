@@ -1,4 +1,4 @@
-# 📕readme.md `eng` | [`rus`](https://github.com/N3M1X10/windows-batch/blob/master/src/system-policies/uac/readme-ru.md)
+# 📕readme.md `eng` | [`rus`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/readme-ru.md)
 
 This section includes packages for disabling/restoring the Windows system function: **User Account Control**
 
@@ -10,8 +10,8 @@ This section includes packages for disabling/restoring the Windows system functi
 - This can increase security risks if you are careless online and download files from unreliable sources.
 
 ## Files
-- [`src/net/uac/disable-UAC.bat`](https://github.com/N3M1X10/windows-batch/blob/master/src/net/uac/disable-UAC.bat) - Run to disable UAC
-- [`src/net/uac/restore-UAC.bat`](https://github.com/N3M1X10/windows-batch/blob/master/src/net/uac/restore-UAC.bat) - Run to restore UAC
+- [`src/net/uac/disable-UAC.bat`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/disable-UAC.bat) - Run to disable UAC
+- [`src/uac/restore-UAC.bat`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/restore-UAC.bat) - Run to restore UAC
 
 >[!important]
 >After these operations, it is required to restart the system for the changes to take effect!
