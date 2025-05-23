@@ -1,4 +1,4 @@
-# 📕readme-ru.md [`eng`](https://github.com/N3M1X10/windows-batch/blob/master/src/net/uac/readme.md) | `rus`
+# 📕readme-ru.md [`eng`](https://github.com/N3M1X10/windows-batch/blob/master/src/system-policies/uac/readme.md) | `rus`
 
 Данный раздел включает в себя пакеты отключения/восстановления системной функции Windows: **User Account Control**
 

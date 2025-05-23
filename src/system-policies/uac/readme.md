@@ -1,4 +1,4 @@
-# 📕readme.md `eng` | [`rus`](https://github.com/N3M1X10/windows-batch/blob/master/src/net/uac/readme-ru.md)
+# 📕readme.md `eng` | [`rus`](https://github.com/N3M1X10/windows-batch/blob/master/src/system-policies/uac/readme-ru.md)
 
 This section includes packages for disabling/restoring the Windows system function: **User Account Control**
 
