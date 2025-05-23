@@ -1,6 +1,6 @@
-# 📕readme.md
+# 📕readme.md `eng` | [`rus`](https://github.com/N3M1X10/windows-batch/blob/master/src/net/uac/readme-ru.md)
 
-This section includes packages for disabling/restoring the system function **User Account Control**
+This section includes packages for disabling/restoring the Windows system function: **User Account Control**
 
 >[!caution]
 >This is a feature for advanced users! Use it at your own risk!
