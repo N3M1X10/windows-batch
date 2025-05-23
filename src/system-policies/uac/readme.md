@@ -9,9 +9,9 @@ This section includes packages for disabling/restoring the Windows system functi
 - This will disable notifications that an application requires administrator rights.
 - This can increase security risks if you are careless online and download files from unreliable sources.
 
-## Files
-- [`src/net/uac/disable-UAC.bat`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/disable-UAC.bat) - Run to disable UAC
-- [`src/uac/restore-UAC.bat`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/restore-UAC.bat) - Run to restore UAC
+## 📁Files
+- [`disable-UAC.bat`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/disable-UAC.bat) - Run to disable UAC
+- [`restore-UAC.bat`](https://github.com/N3M1X10/windows-batch/tree/master/src/system-policies/uac/restore-UAC.bat) - Run to restore UAC
 
 >[!important]
 >After these operations, it is required to restart the system for the changes to take effect!
