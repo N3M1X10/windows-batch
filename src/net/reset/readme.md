@@ -1,6 +1,5 @@
 # 📕readme.md `eng` | [`rus`](https://github.com/N3M1X10/windows-batch/blob/master/src/net/reset/readme-ru.md)
-
-## 🔁Resetting Internet Adapter settings
+🔁This section contains batch scripts for **resetting internet adapter settings**
 
 >[!caution]
 > - **The Internet may be disconnected!** When launching batch files, make sure that nothing crashes and all data is saved.
