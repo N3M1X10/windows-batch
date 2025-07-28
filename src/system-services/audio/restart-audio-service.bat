@@ -38,7 +38,7 @@ if !hasASRV!==1 (
   goto :asrv_check_status
 )
 
->nul timeout /t 2
+>nul timeout /t 1
 endlocal&exit
 
 :: Source: https://github.com/N3M1X10/windows-batch
